@@ -7,6 +7,7 @@ function App() {
             <h2>A project to learn about firebase features</h2>
             <ol>
                 <li>Firebase project synchronized with git hub master branch</li>
+                <li>Testing auto build</li>
             </ol>
 
             <hr></hr>
@@ -15,6 +16,7 @@ function App() {
             <h2>Um projeto para aprender sobre funucionalidades do firebase</h2>
             <ol>
                 <li>Projeto do firebase sincronizado com a branch master do github</li>
+                <li>Testando build automática</li>
             </ol>
 
             <hr></hr>

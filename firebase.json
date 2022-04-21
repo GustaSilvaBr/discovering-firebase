@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "discovering-firebase-c034d",
     "public": "build",
     "ignore": [
       "firebase.json",

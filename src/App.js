@@ -8,6 +8,14 @@ function App() {
             <ol>
                 <li>Firebase project synchronized with git hub master branch</li>
             </ol>
+
+            <hr></hr>
+
+            <h1>Descobrindo o firebase</h1>
+            <h2>Um projeto para aprender sobre funucionalidades do firebase</h2>
+            <ol>
+                <li>Projeto do firebase sincronizado com a branch master do github</li>
+            </ol>
         </div>
     );
 }

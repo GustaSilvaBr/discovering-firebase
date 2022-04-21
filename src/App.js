@@ -16,6 +16,9 @@ function App() {
             <ol>
                 <li>Projeto do firebase sincronizado com a branch master do github</li>
             </ol>
+
+            <hr></hr>
+            <i>v1.1</i>
         </div>
     );
 }

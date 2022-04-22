@@ -26,6 +26,6 @@ If you want others to view changes to your web app before going live, you can us
  >Replace CHANNEL_ID with a string with no spaces (for example, `feature_mission-2-mars`). This ID will be used to construct the preview URL associated with the preview channel.
  >Expires after one week
  >Can access production data
-View this current test: **[Discovering firebase](https://eff.org)**.
+View this current test: **[Discovering firebase](https://discovering-firebase-c034d--black-theme-ssl13m54.web.app/)**.
 
 

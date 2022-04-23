@@ -1,5 +1,7 @@
-# Start with firebase hosting
+# Start with firebase
 
+
+## Firebase Hosting
 To put our projects online we can host by firebase.
 Firebase it's a good way to do this.
   
@@ -29,3 +31,6 @@ If you want others to view changes to your web app before going live, you can us
 View this current test: **[Discovering firebase](https://discovering-firebase-c034d--black-theme-ssl13m54.web.app/)**.
 
 
+## Firebase functions (and a little about firestore)
+
+### `firebase init firestore` Initialize firestore in the project
